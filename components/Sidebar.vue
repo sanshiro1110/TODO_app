@@ -49,7 +49,6 @@ const toggleSidebar = ():void => {
 
 .user_category_area {
   padding: 30px;
-  height: 100%;
   white-space: nowrap;
 }
 
